@@ -30,3 +30,4 @@ O objetivo deste script é:
 make
 ls -l test_quotes.sh
 chmod +x test_quotes.sh
+./test_quotes.sh
